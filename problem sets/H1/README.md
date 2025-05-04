@@ -14,7 +14,3 @@ This folder contains my full solution to Homework 1.
 
 ## Tools Used
 - Python (NumPy, pandas, matplotlib)
-
-## Notes
-All bonds assumed to have $100 face value and semi-annual coupons. Yields are annualized and compounded semi-annually.
-
