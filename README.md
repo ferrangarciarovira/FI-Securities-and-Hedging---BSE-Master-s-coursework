@@ -1,2 +1,20 @@
 # FI Securities and Hedging - BSE Master's coursework
-Code and materials from the "Fixed Income Securities and Hedging" course at BSE. Includes bond pricing, duration, yield curves, and hedging strategies. Work done as part of the Master's program using Python.
+
+This repository contains code and materials from the "Fixed Income Securities and Hedging" course at the Barcelona School of Economics (BSE), part of the Master's in Financial Economics.
+
+## Topics Covered
+- Bond pricing and yield calculations
+- Duration and convexity
+- Yield curves and term structure models
+- Hedging strategies with fixed income instruments
+
+## Structure
+- `notebooks/`: Jupyter notebooks with implementations
+- `data/`: Datasets used for exercises and projects
+- `excel/`: Excel sheets with calculations and models
+
+## Tools Used
+- Python (NumPy, pandas, matplotlib)
+
+## Author
+Ferran García Rovira
