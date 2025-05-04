@@ -1,6 +1,6 @@
 # Homework 1 
 
-This folder contains my full solution to Homework 1 of the *Fixed Income Securities and Hedging* course at the Barcelona School of Economics.
+This folder contains my full solution to Homework 1.
 
 ## Exercises
 
