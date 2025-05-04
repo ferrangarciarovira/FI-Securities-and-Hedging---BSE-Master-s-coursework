@@ -12,7 +12,6 @@ This repository contains code and materials from the *Fixed Income Securities an
 - `notebooks/`: Jupyter notebooks with implementations and analysis
 - `excel/`: Excel sheets with pricing models and calculations
 - `data/`: Datasets used in coursework (if applicable)
-- `reports/`: Written reports or presentations related to the course (if any)
 
 ## Tools Used
 - Python (NumPy, pandas, matplotlib)
