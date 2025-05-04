@@ -31,7 +31,7 @@ The course covers key frameworks and tools used in fixed income markets:
 - Python (NumPy, pandas, matplotlib)
 
 ## Author
-[Ferran García Rovira](https://www.linkedin.com/in/ferrangrciarovira) 
+[Ferran García Rovira](https://www.linkedin.com/in/ferrangarciarovira/) 
 
 ## Institution
 Barcelona School of Economics – [Master's in Financial Economics](https://bse.eu/)
