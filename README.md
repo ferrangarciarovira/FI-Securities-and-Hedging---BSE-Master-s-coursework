@@ -34,7 +34,7 @@ The course covers key frameworks and tools used in fixed income markets:
 [Ferran García Rovira](https://www.linkedin.com/in/ferrangarciarovira/) 
 
 ## Institution
-Barcelona School of Economics – [Master's in Financial Economics](https://bse.eu/)
+Barcelona School of Economics – [Master's in Financial Economics](https://bse.eu/masters-degrees/economics-finance/financial-economics)
 
 ## License
 This project is for educational purposes only. No commercial use is permitted without permission.
